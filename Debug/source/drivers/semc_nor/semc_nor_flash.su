@@ -1,0 +1,9 @@
+semc_nor_flash.c:609:6:semc_nor_issue_unlock_bypass_reset	16	static
+semc_nor_flash.c:545:6:semc_nor_issue_reset_to_read	16	static
+semc_nor_flash.c:382:10:semc_nor_check_toggle_bit	48	static
+semc_nor_flash.c:594:6:semc_nor_issue_unlock_bypass.isra.0	16	static
+semc_nor_flash.c:207:9:semc_nor_get_specific_ac_cycles	8	static
+semc_nor_flash.c:730:10:semc_nor_flash_verify_erase	0	static
+semc_nor_flash.c:748:10:semc_nor_flash_verify_program	8	static
+semc_nor_flash.c:811:10:semc_nor_flash_page_program	72	static
+semc_nor_flash.c:851:10:semc_nor_flash_erase_block	64	static

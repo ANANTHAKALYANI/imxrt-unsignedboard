@@ -1,0 +1,17 @@
+bl_flexspi.c:101:6:flexspi_is_parallel_mode	0	static
+bl_flexspi.c:113:6:flexspi_is_padsetting_override_enable	0	static
+bl_flexspi.c:125:6:flexspi_is_differential_clock_enable	0	static
+bl_flexspi.c:137:6:flexspi_is_word_addressable	0	static
+bl_flexspi.c:149:6:flexspi_is_ck2_enabled	0	static
+bl_flexspi.c:161:6:flexspi_is_ddr_mode_enable	0	static
+bl_flexspi.c:174:10:flexspi_configure_dll	64	static
+bl_flexspi.c:337:10:flexspi_get_ticks	8	static
+bl_flexspi.c:366:10:flexspi_config_mcr1	32	static
+bl_flexspi.c:441:10:flexspi_config_flash_control_registers	40	static
+bl_flexspi.c:506:10:flexspi_config_ahb_buffers	8	static
+bl_flexspi.c:549:10:flexspi_device_write_enable	48	static
+bl_flexspi.c:1184:6:flexspi_wait_idle	0	static
+bl_flexspi.c:1248:10:flexspi_device_wait_busy	96	static
+bl_flexspi.c:775:10:flexspi_init	104	static
+bl_flexspi.c:1355:6:flexspi_clear_sequence_pointer	0	static
+bl_flexspi.c:1375:6:flexspi_half_clock_control	0	static

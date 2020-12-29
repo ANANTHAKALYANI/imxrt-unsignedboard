@@ -1,0 +1,7 @@
+fsl_rtos_abstraction.c:46:6:sync_init	0	static
+fsl_rtos_abstraction.c:51:6:sync_wait	16	static
+fsl_rtos_abstraction.c:68:6:sync_signal	16	static
+fsl_rtos_abstraction.c:76:6:sync_reset	16	static
+fsl_rtos_abstraction.c:83:6:lock_init	0	static
+fsl_rtos_abstraction.c:87:6:lock_acquire	0	static
+fsl_rtos_abstraction.c:92:6:lock_release	0	static

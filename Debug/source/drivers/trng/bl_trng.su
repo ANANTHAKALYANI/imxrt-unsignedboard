@@ -1,0 +1,5 @@
+bl_trng.c:1336:17:trng_SetStatisticalCheckLimit	8	static
+bl_trng.c:1259:10:TRNG_GetDefaultConfig	0	static
+bl_trng.c:1594:10:TRNG_Init	16	static
+bl_trng.c:1649:6:TRNG_Deinit	0	static
+bl_trng.c:1684:10:TRNG_GetRandomData	32	static

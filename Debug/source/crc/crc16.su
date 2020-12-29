@@ -1,0 +1,5 @@
+crc16.c:125:6:crc16_init	0	static
+crc16.c:133:6:crc16_update	16	static
+crc16.c:160:6:crc16_finalize	0	static
+crc16.c:168:6:crc16_onfi_init	0	static
+crc16.c:176:6:crc16_onfi_update	16	static

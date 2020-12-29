@@ -1,0 +1,12 @@
+semc_nand_flash.c:1061:10:semc_nand_issue_read_status	24	static
+semc_nand_flash.c:845:10:semc_nand_wait_for_ready	56	static
+semc_nand_flash.c:1115:10:semc_nand_issue_read_page	32	static
+semc_nand_flash.c:931:10:semc_nand_issue_read_mode	24	static
+semc_nand_flash.c:1627:10:semc_nand_write_ecc_data_in_spare_area	432	static
+semc_nand_flash.c:1401:6:semc_nand_is_device_ecc_check_passed	24	static
+semc_nand_flash.c:1466:10:semc_nand_read_spare_page_process	32	static
+semc_nand_flash.c:1845:10:semc_nand_flash_read_page	312	static
+semc_nand_flash.c:2134:10:semc_nand_flash_verify_erase	24	static
+semc_nand_flash.c:2092:10:semc_nand_flash_erase_block	32	static
+semc_nand_flash.c:2163:10:semc_nand_flash_verify_page_program	16	static
+semc_nand_flash.c:1958:10:semc_nand_flash_page_program	72	static

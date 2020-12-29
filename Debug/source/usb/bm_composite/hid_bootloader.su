@@ -1,0 +1,5 @@
+hid_bootloader.c:38:14:usb_device_hid_generic_callback	8	static
+hid_bootloader.c:108:14:usb_device_hid_generic_set_configure	16	static
+hid_bootloader.c:124:14:usb_device_hid_generic_set_interface	0	static
+hid_bootloader.c:137:14:usb_device_hid_generic_init	0	static
+hid_bootloader.c:143:14:usb_device_hid_generic_deinit	0	static

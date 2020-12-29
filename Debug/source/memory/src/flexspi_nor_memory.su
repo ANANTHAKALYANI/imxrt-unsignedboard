@@ -1,0 +1,15 @@
+flexspi_nor_memory.c:1097:10:flexspi_nor_memory_read	32	static
+flexspi_nor_memory.c:704:6:is_flexspi_nor_mem_erased	1048	static
+flexspi_nor_memory.c:1083:17:flexspi_nor_memory_erase	16	static
+flexspi_nor_memory.c:573:10:flexspi_nor_mem_read	4	static
+flexspi_nor_memory.c:819:10:flexspi_nor_mem_erase	24	static
+flexspi_nor_memory.c:728:6:flexspi_nor_memory_check.constprop	1048	static
+flexspi_nor_memory.c:753:10:flexspi_nor_mem_flush	16	static
+flexspi_nor_memory.c:584:10:flexspi_nor_mem_write	32	static
+flexspi_nor_memory.c:667:10:flexspi_nor_mem_fill	24	static
+flexspi_nor_memory.c:954:10:flexspi_nor_get_property	8	static
+flexspi_nor_memory.c:319:10:flexspi_nor_mem_config.part.0	536	static
+flexspi_nor_memory.c:319:10:flexspi_nor_mem_config	8	static
+flexspi_nor_memory.c:285:10:flexspi_nor_mem_init	16	static
+flexspi_nor_memory.c:865:10:flexspi_nor_mem_erase_all	16	static
+flexspi_nor_memory.c:1042:6:is_flexspi_nor_configured	0	static

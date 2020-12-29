@@ -1,0 +1,16 @@
+bl_semc.c:180:17:semc_ipg_command_wait_for_done	0	static
+bl_semc.c:88:10:semc_wait_for_idle	0	static
+bl_semc.c:107:10:semc_ipg_command_set_data_size	0	static
+bl_semc.c:158:17:semc_set_macthed_ipg_command_data_size	0	static
+bl_semc.c:143:9:semc_ipg_command_get_data_size	0	static
+bl_semc.c:205:10:semc_ipg_command_device_write	16	static
+bl_semc.c:236:10:semc_ipg_command_device_read	24	static
+bl_semc.c:280:10:semc_ipg_memory_read	24	static
+bl_semc.c:314:10:semc_ipg_memory_write	24	static
+bl_semc.c:360:10:semc_axi_memory_read	8	static
+bl_semc.c:371:10:semc_axi_memory_write	8	static
+bl_semc.c:382:6:semc_is_nand_ready	0	static
+bl_semc.c:392:10:semc_ipg_command_get_nand_code	0	static
+bl_semc.c:407:10:semc_ipg_command_convert_nand_address	0	static
+bl_semc.c:442:10:semc_ipg_command_nand_access	24	static
+bl_semc.c:489:10:semc_ipg_command_convert_nor_address	0	static

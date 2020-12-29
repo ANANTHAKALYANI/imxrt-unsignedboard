@@ -1,0 +1,8 @@
+flexspi_nand_flash.c:130:10:flexspi_nand_check_error_status	56	static
+flexspi_nand_flash.c:73:10:flexspi_nand_check_ecc_status	56	static
+flexspi_nand_flash.c:184:10:flexspi_nand_init	16	static
+flexspi_nand_flash.c:206:10:flexspi_nand_read_page	72	static
+flexspi_nand_flash.c:320:10:flexspi_nand_erase_block	64	static
+flexspi_nand_flash.c:395:10:flexspi_nand_erase	24	static
+flexspi_nand_flash.c:418:10:flexspi_nand_program_page	72	static
+flexspi_nand_flash.c:568:10:flexspi_nand_get_config	88	static

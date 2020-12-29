@@ -1,0 +1,5 @@
+bl_main.c:172:13:jump_to_application	16	static
+bl_main.c:209:6:is_valid_application_location	16	static
+bl_main.c:233:6:is_valid_stackpointer_location	0	static
+bl_main.c:639:5:main	32	static
+bl_main.c:652:6:exit	0	static

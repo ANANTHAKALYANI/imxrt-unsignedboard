@@ -1,0 +1,9 @@
+usb_device_hid.c:104:21:USB_DeviceHidInterruptIn	0	static
+usb_device_hid.c:143:21:USB_DeviceHidInterruptOut	0	static
+usb_device_hid.c:179:21:USB_DeviceHidEndpointsInit	56	static
+usb_device_hid.c:274:21:USB_DeviceHidEndpointsDeinit	16	static
+usb_device_hid.c:307:14:USB_DeviceHidEvent	56	static
+usb_device_hid.c:593:14:USB_DeviceHidInit	16	static
+usb_device_hid.c:637:14:USB_DeviceHidDeinit	8	static
+usb_device_hid.c:676:14:USB_DeviceHidSend	24	static
+usb_device_hid.c:728:14:USB_DeviceHidRecv	24	static

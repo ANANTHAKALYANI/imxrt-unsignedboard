@@ -1,0 +1,10 @@
+bl_sdmmc.c:22:6:SDMMC_Delay	8	static
+bl_sdmmc.c:35:10:SDMMC_SelectCard	72	static
+bl_sdmmc.c:65:10:SDMMC_SendApplicationCommand	64	static
+bl_sdmmc.c:91:10:SDMMC_SetBlockCount	64	static
+bl_sdmmc.c:112:10:SDMMC_GoIdle	64	static
+bl_sdmmc.c:131:10:SDMMC_SetBlockSize	64	static
+bl_sdmmc.c:152:10:SDMMC_SetCardInactive	64	static
+bl_sdmmc.c:173:10:SDMMC_SwitchVoltage	64	static
+bl_sdmmc.c:224:10:SDMMC_BL_SwitchVoltage	64	static
+bl_sdmmc.c:277:10:SDMMC_ExecuteTuning	224	static

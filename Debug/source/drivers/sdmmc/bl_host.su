@@ -1,0 +1,5 @@
+bl_host.c:115:17:USDHC_TransferFunction	32	static
+bl_host.c:63:10:CardInsertDetect	16	static
+bl_host.c:160:10:HOST_Init	8	static
+bl_host.c:186:6:HOST_Reset	0	static
+bl_host.c:200:6:HOST_Deinit	0	static

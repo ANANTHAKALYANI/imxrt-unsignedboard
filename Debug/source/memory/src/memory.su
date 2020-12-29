@@ -1,0 +1,12 @@
+memory.c:279:10:mem_flush	8	static
+memory.c:297:10:mem_finalize	8	static
+memory.c:453:10:mem_init	16	static
+memory.c:322:10:find_map_entry	8	static
+memory.c:358:10:find_external_map_entry	16	static
+memory.c:60:10:mem_read	24	static
+memory.c:397:10:find_external_map_index	12	static
+memory.c:429:6:mem_is_block_reserved	16	static
+memory.c:102:10:mem_write	32	static
+memory.c:178:10:mem_erase	24	static
+memory.c:240:10:mem_fill	24	static
+memory.c:483:6:mem_is_erased	0	static

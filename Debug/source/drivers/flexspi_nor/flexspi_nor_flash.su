@@ -1,0 +1,8 @@
+flexspi_nor_flash.c:584:10:flexspi_nor_wait_busy	48	static
+flexspi_nor_flash.c:531:10:flexspi_nor_write_enable	64	static
+flexspi_nor_flash.c:496:17:flexspi_nor_restore_no_cmd_mode	64	static
+flexspi_nor_flash.c:622:6:flexspi_change_serial_clock	32	static
+flexspi_nor_flash.c:866:10:flexspi_nor_flash_erase_sector	64	static
+flexspi_nor_flash.c:936:10:flexspi_nor_flash_erase_block	64	static
+flexspi_nor_flash.c:1382:10:get_page_sector_block_size_from_sfdp	32	static
+flexspi_nor_flash.c:3527:10:flexspi_nor_restore_spi_protocol	104	static

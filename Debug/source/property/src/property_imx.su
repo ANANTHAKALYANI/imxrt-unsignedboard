@@ -1,0 +1,6 @@
+property_imx.c:336:10:bootloader_property_set_uint32	0	static
+property_imx.c:113:17:target_load_bootloader_config_area	0	static
+property_imx.c:119:10:bootloader_property_load_user_config	16	static
+property_imx.c:136:10:bootloader_property_init	8	static
+property_imx.c:366:10:bootloader_get_external_memory_properties	56	static
+property_imx.c:220:10:bootloader_property_get	24	static

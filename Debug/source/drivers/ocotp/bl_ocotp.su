@@ -1,0 +1,5 @@
+bl_ocotp.c:334:20:ocotp_set_read_timing	0	static
+bl_ocotp.c:258:17:ocotp_wait_for_busy.constprop	32	static
+bl_ocotp.c:69:10:ocotp_init	32	static
+bl_ocotp.c:92:10:ocotp_program_once	24	static
+bl_ocotp.c:174:10:ocotp_read_once	24	static
